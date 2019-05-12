@@ -1,0 +1,54 @@
+.jp-gui button:focus {
+  outline: none;
+}
+.jp-gui button {
+  border: none;
+  background-color: transparent;
+}
+.jp-icon-controls .jp-download,
+.jp-icon-controls .jp-play,
+.jp-gui .jp-repeat,
+.jp-icon-controls .jp-full-screen,
+.jp-icon-controls .jp-mute {
+  min-width: 42px;
+  color: #fff;
+  padding: 0;
+}
+.jp-icon-controls a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+  min-width: 42px;
+  font-size: 20px;
+}
+.jp-jplayer .jp-gui .jp-play i:before {
+  content: "\F04B";
+}
+.jp-jplayer.jp-state-playing .jp-gui .jp-play i:before {
+  content: "\F04C";
+}
+.jp-jplayer.jp-state-muted .jp-gui .jp-mute i:before {
+  content: "\F026";
+}
+.jp-jplayer.jp-state-volume-low .jp-gui .jp-mute i:before {
+  content: "\F027";
+}
+.jp-jplayer.jp-state-volume-high .jp-gui .jp-mute i:before {
+  content: "\F028";
+}
+.jp-state-shuffled.jp-jplayer .jp-gui .jp-shuffle {
+  color: #2175ff;
+}
+.jp-state-looped.jp-jplayer .jp-gui .jp-repeat,
+.jp-state-looped-playlist.jp-jplayer .jp-gui .jp-repeat {
+  color: #2175ff;
+}
+.jp-jplayer .jp-gui .jp-previous,
+.jp-jplayer .jp-gui .jp-next,
+.jp-jplayer .jp-gui .jp-shuffle,
+.jp-jplayer .jp-gui .jp-toggle-playlist {
+  min-width: 42px;
+  color: #fff;
+  padding: 0;
+}
