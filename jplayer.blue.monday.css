@@ -667,31 +667,31 @@ cursor: pointer; }
 
 .jp-repeat {
 
-background: url("https://zexiliang.github.io/0428/image/danxun.png") center no-repeat; 
+background: url("https://zexiliang.github.io/0428/danxun.png") center no-repeat; 
 }
 
 .jp-repeat:focus {
-background: url("https://zexiliang.github.io/0428/image/danqu-1.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/danxun.png") center no-repeat;
 }
 
 .jp-state-looped .jp-repeat {
-background: url("https://zexiliang.github.io/0428/image/danqu-1.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/danqu-1.png") center no-repeat; }
 
 .jp-state-looped .jp-repeat:focus {
-background: url("https://zexiliang.github.io/0428/image/danxun.png") center no-repeat;  }
+background: url("https://zexiliang.github.io/0428/danxun.png") center no-repeat;  }
 
 .jp-shuffle {
-background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/suiji.png") center no-repeat;
 margin-left: 5px; }
 
 .jp-shuffle:focus {
-background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/suiji.png") center no-repeat; }
 
 .jp-state-shuffled .jp-shuffle {
-background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/suiji.png") center no-repeat; }
 
 .jp-state-shuffled .jp-shuffle:focus {
-background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/suiji.png") center no-repeat; }
 
 /* @end */
 /* @group NO SOLUTION error feedback */
