@@ -228,7 +228,7 @@ position: relative;
 top: -2px;
 width: 24px;
 height: 24px; 
-background: url("./image/zanting.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/zanting.png") center no-repeat;
 background-size: 20px 20px;
 
 }
@@ -236,7 +236,7 @@ background-size: 20px 20px;
 .jp-play:focus {
 position: relative;
 top: -2px;
-background: url("./image/zanting.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/zanting.png") center no-repeat;
 background-size: 20px 20px;
 
 }
@@ -246,11 +246,11 @@ position: relative;
 top: -2px;
 width: 24px;
 height: 24px;
-background: url("./image/bofang.png") center no-repeat; 
+background: url("https://zexiliang.github.io/0428/bofang.png") center no-repeat; 
 }
 
 .jp-state-playing .jp-play:focus {
-background: url("./image/bofang.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/bofang.png") center no-repeat;
 background-size: 20px 20px;
 }
 
@@ -667,31 +667,31 @@ cursor: pointer; }
 
 .jp-repeat {
 
-background: url("./image/danxun.png") center no-repeat; 
+background: url("https://zexiliang.github.io/0428/image/danxun.png") center no-repeat; 
 }
 
 .jp-repeat:focus {
-background: url("./image/danqu-1.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/image/danqu-1.png") center no-repeat;
 }
 
 .jp-state-looped .jp-repeat {
-background: url("./image/danqu-1.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/image/danqu-1.png") center no-repeat; }
 
 .jp-state-looped .jp-repeat:focus {
-background: url("./image/danxun.png") center no-repeat;  }
+background: url("https://zexiliang.github.io/0428/image/danxun.png") center no-repeat;  }
 
 .jp-shuffle {
-background: url("./image/suiji.png") center no-repeat;
+background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat;
 margin-left: 5px; }
 
 .jp-shuffle:focus {
-background: url("./image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
 
 .jp-state-shuffled .jp-shuffle {
-background: url("./image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
 
 .jp-state-shuffled .jp-shuffle:focus {
-background: url("./image/suiji.png") center no-repeat; }
+background: url("https://zexiliang.github.io/0428/image/suiji.png") center no-repeat; }
 
 /* @end */
 /* @group NO SOLUTION error feedback */
